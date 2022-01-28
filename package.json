@@ -1,0 +1,22 @@
+{
+  "name": "streaminfo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuzimbisonratte/streaminfo-bot.git"
+  },
+  "author": "CuzImBisonratte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuzimbisonratte/streaminfo-bot/issues"
+  },
+  "homepage": "https://github.com/cuzimbisonratte/streaminfo-bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
