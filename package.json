@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/cuzimbisonratte/streaminfo-bot#readme",
   "dependencies": {
+    "@twurple/api": "^5.0.14",
+    "@twurple/auth": "^5.0.14",
+    "@twurple/eventsub": "^5.0.14",
     "tmi.js": "^1.8.5"
   }
 }
